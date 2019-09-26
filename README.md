@@ -1,9 +1,7 @@
 # Curso - Introdução a Ciência de Dados
 
-Repositório com material para curso de Ciência de Dados.
-
-
-## Slides (em breve)
+- Repositório com material para curso de Ciência de Dados.
+- Slides (em breve?).
 
 ## Linguagens
 
@@ -49,6 +47,21 @@ Repositório com material para curso de Ciência de Dados.
 - **Kaggle**
   - https://www.kaggle.com/ 
 
+## Base de dados (Kaggle)
 
-
-
+- **Análise de fraudes em cartão de crédito**
+  - https://www.kaggle.com/mlg-ulb/creditcardfraud
+- **TMDB 5000 movie dataset**
+  - https://www.kaggle.com/tmdb/tmdb-movie-metadata
+- **Bitcoin historical data**
+  - https://www.kaggle.com/mczielinski/bitcoin-historical-data
+- **Yelp dataset**
+  - https://www.kaggle.com/yelp-dataset/yelp-dataset
+- **Netflix prize data**
+  - https://www.kaggle.com/netflix-inc/netflix-prize-data
+- **Github data**
+  - https://www.kaggle.com/github/github-repos
+- **Stackoverflow data**
+  - https://www.kaggle.com/stackoverflow/stackoverflow
+- **Open images dataset**
+  - https://www.kaggle.com/bigquery/open-images
